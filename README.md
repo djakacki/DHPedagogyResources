@@ -1,7 +1,7 @@
 # DHPedagogyResources
-A sharable resource for scripts, toolkits, and readings for people interested in Digital Humanities Pedagogy. I have added attribution in the code and stripped out any student-specific information so please feel free to use the materials. 
+A sharable resource for scripts, toolkits, and readings for people interested in Digital Humanities Pedagogy.  
 
-Since many of the materials have been developed with assistance of others, I encourage you to pass on any recognition to those who have worked before.
+In hopes of recognizing so many of the people writing and engaged in pedagogical subjects (and who often do this work in the shadows),  feel free to share that attribution.
 
 Please tweet me with questions: @DianeJakacki
-~ Diane Jakacki, November 2017
+~ Diane Jakacki
